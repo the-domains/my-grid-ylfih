@@ -1,0 +1,14 @@
+layout_spectrum: 0.03804160444997251
+typography_spectrum: 0.8748497886117548
+color:
+  brandStrength: 0.5093054845929146
+  lightness: 0.7863118418026716
+  saturation: 0.1410024946089834
+  rhythmicContrast: 0.2878646394237876
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: My Grid
